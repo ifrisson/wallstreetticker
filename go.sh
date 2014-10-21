@@ -1,0 +1,1 @@
+sudo ./stock-updater.py
